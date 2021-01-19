@@ -84,6 +84,3 @@ print("Classification Report is : ", Classification_report)
 
 ZeroOneLossValue = zero_one_loss(y_test, y_pred, normalize=False)
 print("zero One Loss Value : ", ZeroOneLossValue)
-
-# plot classification
-
